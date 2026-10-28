@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+face_embeddings*.jsonl
+colab_upload.zip
